@@ -12,11 +12,11 @@ This project focuses on determining the factors that cause a patient to develop 
   5.  Diabetes
   6.  Current smoker
 
-# **Insights from the Analysis**
+## **Insights from the Analysis**
   1.  If a person is old (above 65 years), the chances of developing coronary heart disease in ten years are 30% more than a young one.
   2.  If a person is male, he’s almost 20% more likely to develop coronary heart disease than a female in ten years.
   3.  A diabetic person is also 20% more likely to develop coronary heart disease than a non-diabetic in ten years.
   4.  A hypertensive smoker is almost 10% more likely to develop coronary heart disease than a non-hypertensive smoker in ten years.
   5.  Surprisingly, a hypertensive smoker has almost the same likelihood of developing coronary heart disease as a hypertensive non-smoker.
 
-# **Conclusion**
+### **Conclusion**
