@@ -13,14 +13,18 @@ This project focuses on determining the factors that cause a patient to develop 
   6.  Current smoker
 
 ## **Insights from the Analysis**
-  1.  If a person is old (above 65 years), the chances of developing coronary heart disease in ten years are 30% more than a young one.
-  2.  If a person is male, he’s almost 20% more likely to develop coronary heart disease than a female in ten years.
-  3.  A diabetic person is also 20% more likely to develop coronary heart disease than a non-diabetic in ten years.
+  1.  A person over the age of 65 has a 30% higher likelihood of developing coronary heart disease in ten years than a young person.
+  2.  In ten years, a man is nearly 20% more likely than a woman to have coronary heart disease.
+  3.  In ten years, a diabetic individual is 20% more likely than a non-diabetic to have coronary heart disease.
   4.  A hypertensive smoker is almost 10% more likely to develop coronary heart disease than a non-hypertensive smoker in ten years.
-  5.  Surprisingly, a hypertensive smoker has almost the same likelihood of developing coronary heart disease as a hypertensive non-smoker.
+  5.  Surprisingly, a hypertensive smoker has about the same risk of coronary heart disease as a hypertensive nonsmoker.
 
 ## **Conclusion**
-The World Health Organization estimates that 12 million people die each year as a result of heart disease. Cardiovascular diseases account for half of all fatalities in the United States and other developed countries. The early diagnosis of cardiovascular disease can help high-risk individuals make lifestyle adjustments, which can lessen consequences. This research revealed that age, prevalent hypertension, gender, smoking, and diabetes all have a significant impact on assessing the chance of having coronary heart disease in the next ten years. Smoking because both nicotine and carbon monoxide (from the smoke) put a strain on the heart by making it work faster, increasing the risk of blood clots which could lead to coronary heart disease. Hypertension because it puts a strain on the heart, increasing the odds of developing CHD. Diabetes because over time, high blood sugar can damage blood vessels and the nerves that control the heart leading to coronary heart disease. Lastly, aging is associated with a progressive decline in numerous physiological processes, leading to an increased risk of health complications and disease. By delivering oxygenated blood to all tissues in the body, the health of the cardiovascular system is vital for the health of every tissue and the longevity of the organism as a whole. Aging has a remarkable effect on the heart and arterial system, leading to an increase in coronary disease.
+The World Health Organization estimates that heart disease kills 12 million people per year. In the United States and other developed countries, cardiovascular diseases account for half of all mortality. Early detection of cardiovascular disease can assist high-risk patients in making lifestyle changes that can reduce the effects. 
+
+This research revealed that age, prevalent hypertension, gender, smoking, and diabetes all have a significant impact on assessing the chance of having coronary heart disease in the next ten years. Smoking because both nicotine and carbon monoxide (from the smoke) put a strain on the heart by making it work faster, increasing the risk of blood clots which could lead to coronary heart disease. Hypertension because it puts a strain on the heart, increasing the odds of developing CHD. Diabetes because over time, high blood sugar can damage blood vessels and the nerves that control the heart leading to coronary heart disease. 
+
+Lastly, aging is connected with a steady deterioration in several physiological systems, leading to an increased risk of health issues and illness. The circulatory system's health is critical for the health of all tissues and the longevity of the organism as a whole since it delivers oxygenated blood to all tissues in the body. Aging has a profound influence on the heart and vascular system, resulting in a rise in coronary disease.
 
 ## **Recommendations**
-To reduce the risk of coronary heart disease, one must prioritize one's health. Eat a good and balanced diet to keep your blood sugar in check and avoid diabetes; exercise to maintain a healthy weight and reduce your chances of getting hypertensive; and stop smoking and drinking alcohol. If you are already hypertensive or diabetic, take your medications seriously.
+Prioritizing one's health is crucial for lowering the risk of coronary heart disease. Eat a well-balanced diet to keep your blood sugar under control and avoid diabetes; exercise to maintain a healthy weight and lower your risks of becoming hypertensive; and quit smoking and drinking alcohol. Take your medications seriously if you are already hypertensive or diabetic.
